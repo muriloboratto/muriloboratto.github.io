@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Murilo Boratto"
-  avatar           : "/images/500x300.jpg"
+  avatar           : "murilo.jpg"
   bio              : "Researcher and Professor"
   location         : "Salvador - Bahia"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "murilo.boratto 'at' fieb.org.br"
+  email            : "murilo.boratto@fieb.org.br"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
