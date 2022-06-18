@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in Informatic, Universidade Católica do Salvador, 2002
-* M.Sc. in Parallel Computing, University Politecnic of Valencia, 2008 
-* Ph.D in Informatics,  University Politecnic of Valencia, 2014 
+* B.S. in Informatic, Universidade Católica do Salvador, Salvador, Bahia, Brazil, 2002
+* B.S. in Chemistry Engenieer, University of Murcia, Murcia, Spain, 2005
+* M.Sc. in Distributed and Parallel Computing, University Politecnic of Valencia, Valencia, Spain, 2008 
+* Ph.D in High-Performance Computing,  University Politecnic of Valencia, Valencia, Spain, 2014
+* Post.Doc in High-Performance Computing,  University College of Dublin, Dublin, Ireland, 2016
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016: Researcher
+  * SENAI CIMATEC Supercomputing Center
+  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2012: Assistant Professor 
+  * University of Bahia (UNEB)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Experience in Data Science, Software Architecture, Software Design and Development
+* Experience in HPC Management Projects
+* Experience in Seismic Modelling and Application on Designing the Oil and Gas Computing
+* Tracing, Profiling e Benchmarking of Parallel Applications
+* Portability e Optimization Parallel Code
+* Knowledge in Parallel Programming APIs: MPI, OpenMP, TBB, Open- ACC, CUDA, OpenCL, NCCL, CUDA-AWARE, CuBLAS, MAGMA, PLASMA, LAPACK, BLAS, ScaLAPACK, Kokkos, Raja, Julia, Halide
 
 Publications
 ======
@@ -54,6 +54,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams

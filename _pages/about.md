@@ -27,4 +27,5 @@ We look at these problems from the perspective of GPU invironments and their ass
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about academic contents can be found in [the guide](https://muriloboratto.docentes.uneb.br). 
+And more infor about me [CV lattes](http://lattes.cnpq.br/9222855062709254) (which this theme was forked from) might also be helpful.
