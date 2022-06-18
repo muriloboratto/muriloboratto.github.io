@@ -9,28 +9,21 @@ redirect_from:
 ---
 
 
-Hi. I am a Lecturer (Assistant Professor) in the Department of Computer Science at the University of Liverpool. Prior to this, I worked at Imperial College London.
-
+Hi. I am a Assistant Professor in the Department of Sciences at the University of Bahia and Researcher at Supercomputing Center SENAI CIMATEC.
 
 Research Interests
 ------
-Our research is focused around High-performance computing, Numerical methods (PDE Solvers), machine learning and inverse problems. We are especially interested in Scientific Machine Learning and Physics-Informed Machine Learning. If you are interested in these areas and wish to collaborate with us, please get in touch with me.
+Our research is focused around High-Performance Computing, especially interested in Accelerating Computing and Parallel Computing. If you are interested in these areas and wish to collaborate with us, please get in touch with me.
 
-More specifically, we are interested in numerical software that runs at the limits of the underlying hardware, where performance constraints dictate engineering/design decisions. Examples include, but not limited to:
+More specifically, we are interested in GPU Programming that runs at the limits of the underlying hardware, where performance constraints dictate engineering/design decisions. Examples include, but not limited to:
 
- * Large-scale PDE-constrained inverse problems (e.g. Full-Waveform Inversion, commonly used in Geophysical Exploration)
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * Large-scale Deep and Wide Neural Networks (e.g. 3D Image Segmentation, Large-scale data compression, Scientific Machine Learning)
-  * Combinations of the above, e.g. Physics-Informed Neural Network
+ * Scaling GPU Applications on Multiple Nodes (e.g. CUDA, NCCL, CUDA-AWARE, MPI)
 
-We look at these problems from the perspective of Domain-Specific Languages (DSLs) and their associated compilers, including topics like Automatic Differentiation. We work in diverse application areas including Geophysical exploration as well as Healthcare.
+ * Accelerating Applications with CUDA (e.g. Asynchronous Streaming, Visual Profiling)
+ 
+ * Combinations of the above
+
+We look at these problems from the perspective of GPU invironments and their associated compilers, including topics like Automatic Differentiation. We work in diverse application areas including Geophysical exploration as well as Healthcare.
 
 For more info
 ------
