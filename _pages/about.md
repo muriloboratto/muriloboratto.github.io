@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
+
 Hi. I am a Lecturer (Assistant Professor) in the Department of Computer Science at the University of Liverpool. Prior to this, I worked at Imperial College London.
 
 
