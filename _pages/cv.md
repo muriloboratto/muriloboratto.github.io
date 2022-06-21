@@ -34,7 +34,7 @@ Skills
 * Experience in Seismic Modelling and Application on Designing the Oil and Gas Computing
 * Tracing, Profiling e Benchmarking of Parallel Applications
 * Portability e Optimization Parallel Code
-* Knowledge in Parallel Programming APIs: MPI, OpenMP, TBB, Open- ACC, CUDA, OpenCL, NCCL, CUDA-AWARE, CuBLAS, MAGMA, PLASMA, LAPACK, BLAS, ScaLAPACK, Kokkos, Raja, Julia, Halide
+* Knowledge in Parallel Programming APIs: MPI, OpenMP, TBB, Open- ACC, CUDA, OpenCL, NCCL, CUDA-AWARE, CuBLAS, MAGMA, PLASMA, LAPACK, BLAS, ScaLAPACK, Kokkos, Raja, Julia
 
 Publications
 ======
@@ -42,11 +42,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+{Talks%}
+{%======%}
+  {%<ul>{% for post in site.talks %}%}
+  {%  {% include archive-single-talk-cv.html %}%}
+ {% {% endfor %}</ul>%}
   
 Teaching
 ======
@@ -54,6 +54,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-#Service and leadership
-#======
-#* Currently signed in to 43 different slack teams
