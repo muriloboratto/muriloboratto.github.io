@@ -36,7 +36,4 @@ Skills
 * Languages Programming: C/C++/C#, Python, Fortran, Javascript
 * Knowledge in Parallel Programming APIs: MPI, OpenMP, TBB, OpenACC, CUDA, NCCL, NVSHMEM, CUDA-AWARE, CuBLAS, MAGMA, PLASMA, LAPACK, BLAS, ScaLAPACK, Kokkos, Raja, Julia
 
-For more info
-------
-More info about academic contents can be found in [CV lattes](http://lattes.cnpq.br/9222855062709254) 
 
