@@ -27,4 +27,3 @@ We look at these problems from the perspective of GPU invironments and their ass
 For more info
 ------
 More info about academic contents can be found in [web page](https://muriloboratto.docentes.uneb.br). 
-And more infor about me [CV lattes](http://lattes.cnpq.br/9222855062709254) (which this theme was forked from) might also be helpful.

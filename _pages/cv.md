@@ -36,3 +36,7 @@ Skills
 * Portability e Optimization Parallel Code
 * Knowledge in Parallel Programming APIs: MPI, OpenMP, TBB, Open- ACC, CUDA, OpenCL, NCCL, CUDA-AWARE, CuBLAS, MAGMA, PLASMA, LAPACK, BLAS, ScaLAPACK, Kokkos, Raja, Julia
 
+For more info
+------
+More info about academic contents can be found in [CV lattes](http://lattes.cnpq.br/9222855062709254) 
+

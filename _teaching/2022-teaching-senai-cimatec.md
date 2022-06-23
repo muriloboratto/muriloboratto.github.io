@@ -8,6 +8,4 @@ date: 2022-06-19
 location: "Salvador, Bahia, Brasil"
 ---
 
-Módulo Graduação/Mestrado/Doutorado, SENAI CIMATEC, 2022
-
-Link Google Classroom https://classroom.google.com/c/MzYzMzA0MjQzMDYx?cjc=5yjxrjq
+<p style="text-decoration:underline;"><a href="https://classroom.google.com/c/MzYzMzA0MjQzMDYx?cjc=5yjxrjq">Link Google Classroom</a></p>
