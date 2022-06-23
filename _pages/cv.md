@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Informatic, Universidade Católica do Salvador, Salvador, Bahia, Brazil, 2002
 * B.S. in Chemistry Engenieer, University of Murcia, Murcia, Spain, 2005
-* M.Sc. in Distributed and Parallel Computing, University Politecnic of Valencia, Valencia, Spain, 2008 
+* M.Sc. in Distributed and Parallel Computing, University Polytechnic of Valencia, Valencia, Spain, 2008 
 * Ph.D in High-Performance Computing,  University Politecnic of Valencia, Valencia, Spain, 2014
 * Post.Doc in High-Performance Computing,  University College of Dublin, Dublin, Ireland, 2016
 
