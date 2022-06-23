@@ -33,8 +33,8 @@ Skills
 * Experience in HPC Management Projects
 * Experience in Seismic Modelling and Application on Designing the Oil and Gas Computing
 * Tracing, Profiling e Benchmarking of Parallel Applications
-* Portability e Optimization Parallel Code
-* Knowledge in Parallel Programming APIs: MPI, OpenMP, TBB, Open- ACC, CUDA, OpenCL, NCCL, CUDA-AWARE, CuBLAS, MAGMA, PLASMA, LAPACK, BLAS, ScaLAPACK, Kokkos, Raja, Julia
+* Languages Programming: C/C++/C#, Python, Fortran, Javascript
+* Knowledge in Parallel Programming APIs: MPI, OpenMP, TBB, OpenACC, CUDA, NCCL, NVSHMEM, CUDA-AWARE, CuBLAS, MAGMA, PLASMA, LAPACK, BLAS, ScaLAPACK, Kokkos, Raja, Julia
 
 For more info
 ------
