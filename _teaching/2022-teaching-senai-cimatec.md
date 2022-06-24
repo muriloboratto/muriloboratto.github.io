@@ -9,4 +9,4 @@ location: "Salvador, Bahia, Brasil"
 ---
 
 
-<p style="text-decoration:underline;"><a href="https://classroom.google.com/c/MzYzMzA0MjQzMDYx?cjc=5yjxrjq">Link Google Classroom</p>
+<p style="text-decoration:underline;"><a href="https://classroom.google.com/c/MzYzMzA0MjQzMDYx?cjc=5yjxrjq">Link Google Classroom</a></p>
