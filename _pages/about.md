@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi. I am a Assistant Professor in the Department of Sciences at the University of Bahia and Researcher at Supercomputing Center SENAI CIMATEC.
+Hi. I am a Assistant Professor in the Department of Sciences at the University of Bahia, and Researcher at Supercomputing Center SENAI CIMATEC.
 
 Research Interests
 ------
