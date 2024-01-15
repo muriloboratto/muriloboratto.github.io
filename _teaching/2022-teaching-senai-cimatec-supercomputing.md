@@ -1,10 +1,10 @@
 ---
 title: "Training in Advanced Computing Technologies - Supercomputing"
 collection: ensino
-type: "Disciplina Graduação/Pós-Graduação"
-permalink: /teaching/2023
+type: "-"
+permalink: -
 venue: "SENAI-CIMATEC"
-year: 2023.2
+year: -
 location: "Salvador, Bahia, Brazil"
 ---
 
