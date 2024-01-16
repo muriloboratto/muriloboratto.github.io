@@ -1,9 +1,9 @@
 ---
-title: "Training in Advanced Computing Technologies - Supercomputing"
+title: "Métodos Numéricos e Computacionais"
 collection: ensino
 type: "-"
 permalink: -
-venue: "SENAI-CIMATEC"
+venue: "UNEB"
 year: -
 location: "Salvador, Bahia, Brazil"
 ---
