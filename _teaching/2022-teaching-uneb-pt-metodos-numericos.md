@@ -1,22 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Métodos Numéricos e Computacionais"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduação"
+permalink: Classroom
+venue: "UNEB"
+date: 2024-01-01
+location: "Salvador, Bahia, Brasil"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
-
-<p style="text-decoration:underline;"><a href="https://classroom.google.com/c/NDcxOTA1Njg0Njcz">Link Google Classroom</a></p>
+<p style="text-decoration:underline;"><a href="https://classroom.google.com/c/MzYzMzA0MjQzMDYx?cjc=5yjxrjq">Link Google Classroom</a></p>
