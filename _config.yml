@@ -84,10 +84,10 @@ author:
   avatar           : "murilo.jpg"
   bio              : "Researcher and Professor"
   location         : "Salvador, Bahia - Brazil"
-  employer         : "SENAI CIMATEC | UNEB"
+  employer         : "UNEB"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.br/citations?user=Q7LCR2gAAAAJ&hl=pt-BR"
-  email            : "murilo.boratto@fieb.org.br"
+  email            : "muriloboratto@uneb.br"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
